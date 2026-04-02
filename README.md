@@ -1,2 +1,2 @@
 # Neural-Weight-Architecture
-RTX 3060跑4096维，显存3.9GB，5轮收敛，可解释神经网络架构
+RTX 3060 runs 4096-dim training, 3.9GB VRAM, 5 epochs, explainable neural architecture
